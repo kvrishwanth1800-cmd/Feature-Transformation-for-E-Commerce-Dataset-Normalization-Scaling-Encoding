@@ -1,0 +1,54 @@
+install.packages("fastDummies")
+library(fastDummies)
+
+```{r}
+df<- read.csv("ecommerce_dataset.csv")
+str(df)
+head(df)
+#Check for missing values
+colSums(is.na(df))
+```
+```{r}
+# Normalization (Min-Max Scaling) for Annual_Income
+df$Annual_Income_Norm <- (df$Annual_Income - min(df$Annual_Income)) / 
+                         (max(df$Annual_Income) - min(df$Annual_Income))
+
+```
+```{r}
+#Standardization (Scaling)
+mean_Customer_Age <- mean(df$Customer_Age)
+std_Customer_Age <- sqrt(mean((df$Customer_Age - mean_Customer_Age)^2)) 
+
+df$Customer_Age_Scaled <- (df$Customer_Age - mean_Customer_Age) / std_Customer_Age
+
+
+```
+```{r}
+# Label Encoding for Payment_Method
+df$Payment_Method_Label <- as.numeric(factor(df$Payment_Method))
+
+#Ordinal Encoding for Membership_Level Levels: Bronze < Silver < Gold < Platinum
+df$Membership_Level_Ord <- factor(df$Membership_Level, 
+                                  levels = c("Bronze", "Silver", "Gold", "Platinum"),
+                                  ordered = TRUE)
+df$Membership_Level_Ord <- as.numeric(df$Membership_Level_Ord)
+
+# One-Hot Encoding for Product_Category
+df <- fastDummies::dummy_cols(df, select_columns = "Product_Category", 
+                              remove_selected_columns = TRUE)
+
+
+#Final data
+head(df)
+```
+
+```{r}
+mean(df$Customer_Age_Std)
+sd(df$Customer_Age_Std)
+
+```
+```{r}
+View(df)
+
+```
+

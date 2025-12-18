@@ -1,0 +1,1001 @@
+Customer_Age,Annual_Income,Product_Category,Membership_Level,Payment_Method
+56,125186,Books,Platinum,Credit Card
+69,54674,Clothing,Silver,Credit Card
+46,55854,Books,Platinum,PayPal
+32,66271,Clothing,Silver,PayPal
+60,93688,Books,Silver,Debit Card
+25,58518,Beauty,Silver,Cash
+38,131076,Beauty,Gold,Credit Card
+56,30267,Electronics,Gold,Credit Card
+36,110825,Books,Platinum,Cash
+40,21062,Home,Platinum,Cash
+28,136664,Electronics,Gold,Debit Card
+28,70448,Books,Bronze,Cash
+41,115462,Books,Gold,Credit Card
+53,26229,Electronics,Silver,Credit Card
+57,76793,Beauty,Gold,Credit Card
+41,134813,Books,Silver,Credit Card
+20,67915,Beauty,Platinum,Credit Card
+39,24632,Electronics,Bronze,Debit Card
+19,124592,Beauty,Platinum,Credit Card
+41,23596,Clothing,Silver,Debit Card
+61,129779,Home,Silver,Credit Card
+47,26168,Books,Silver,PayPal
+55,128099,Home,Bronze,PayPal
+19,27561,Beauty,Gold,PayPal
+38,93794,Books,Platinum,PayPal
+50,102152,Beauty,Platinum,Debit Card
+29,145036,Clothing,Gold,Debit Card
+39,144049,Electronics,Platinum,Cash
+61,46734,Books,Bronze,Credit Card
+42,26371,Clothing,Platinum,PayPal
+66,138894,Clothing,Silver,Debit Card
+44,46069,Books,Gold,Credit Card
+59,99905,Beauty,Bronze,Credit Card
+45,32910,Clothing,Gold,Debit Card
+33,93479,Home,Bronze,PayPal
+32,97735,Clothing,Silver,Cash
+64,101264,Beauty,Gold,Credit Card
+68,43275,Beauty,Platinum,Cash
+61,92274,Home,Bronze,PayPal
+69,101449,Clothing,Gold,PayPal
+20,120776,Beauty,Platinum,Cash
+54,80004,Books,Gold,PayPal
+68,82981,Electronics,Gold,Credit Card
+24,104659,Electronics,Gold,Cash
+38,74553,Electronics,Bronze,PayPal
+26,68447,Clothing,Platinum,Cash
+56,54529,Home,Silver,Credit Card
+35,146394,Beauty,Bronze,PayPal
+21,95703,Books,Bronze,Credit Card
+42,96090,Books,Bronze,PayPal
+31,37260,Clothing,Silver,Debit Card
+67,132581,Electronics,Platinum,PayPal
+26,23812,Clothing,Platinum,Cash
+43,48024,Home,Platinum,PayPal
+19,78656,Home,Gold,Credit Card
+37,136148,Beauty,Gold,Credit Card
+45,47285,Beauty,Gold,PayPal
+64,112436,Home,Silver,Cash
+24,136421,Home,Gold,Debit Card
+61,21605,Home,Silver,Cash
+25,91158,Clothing,Platinum,Debit Card
+64,92303,Home,Gold,Credit Card
+52,47139,Books,Gold,Cash
+31,97149,Electronics,Bronze,Debit Card
+34,76138,Home,Silver,PayPal
+53,138205,Electronics,Platinum,Credit Card
+67,96125,Clothing,Bronze,PayPal
+57,33918,Electronics,Bronze,Credit Card
+21,105655,Clothing,Platinum,Cash
+19,47446,Books,Bronze,Cash
+23,144040,Clothing,Silver,Credit Card
+59,33046,Clothing,Silver,Credit Card
+21,149922,Beauty,Gold,Credit Card
+46,44818,Home,Bronze,Cash
+35,120894,Home,Gold,Debit Card
+43,135751,Books,Bronze,PayPal
+61,24324,Books,Silver,PayPal
+51,96323,Home,Silver,Cash
+27,29111,Beauty,Silver,PayPal
+53,58110,Home,Bronze,Credit Card
+31,36389,Beauty,Silver,Debit Card
+48,142177,Books,Bronze,PayPal
+65,61427,Electronics,Gold,Debit Card
+32,99579,Books,Bronze,Credit Card
+25,48746,Books,Gold,PayPal
+31,142883,Clothing,Bronze,Cash
+40,107886,Clothing,Gold,Debit Card
+57,127141,Clothing,Silver,Credit Card
+38,20117,Clothing,Gold,Debit Card
+33,145808,Beauty,Silver,PayPal
+62,132221,Home,Silver,PayPal
+35,104471,Electronics,Gold,Cash
+64,132613,Books,Bronze,Credit Card
+41,33234,Beauty,Bronze,Credit Card
+43,149597,Electronics,Platinum,Cash
+42,123864,Beauty,Bronze,Cash
+62,73441,Beauty,Platinum,Credit Card
+58,20846,Books,Bronze,Debit Card
+46,30954,Home,Bronze,Debit Card
+32,99239,Clothing,Silver,Cash
+62,133689,Home,Platinum,Debit Card
+18,66514,Books,Bronze,Credit Card
+42,108236,Books,Platinum,PayPal
+24,117579,Books,Silver,PayPal
+26,148644,Electronics,Silver,Debit Card
+41,26469,Home,Platinum,Cash
+18,50105,Home,Silver,Cash
+61,62101,Beauty,Gold,Cash
+25,84323,Beauty,Gold,Cash
+41,111922,Beauty,Silver,Cash
+28,78067,Books,Gold,Debit Card
+68,69376,Home,Bronze,PayPal
+34,65587,Books,Platinum,PayPal
+25,56976,Electronics,Bronze,Debit Card
+52,124587,Beauty,Platinum,Cash
+52,147534,Books,Silver,Debit Card
+50,87584,Books,Bronze,PayPal
+22,124537,Electronics,Silver,Credit Card
+59,98477,Clothing,Silver,Debit Card
+56,130911,Home,Platinum,Cash
+58,62533,Clothing,Platinum,PayPal
+45,21828,Beauty,Platinum,PayPal
+24,21917,Books,Bronze,PayPal
+26,40618,Electronics,Gold,PayPal
+25,52254,Electronics,Platinum,Cash
+29,125292,Home,Platinum,Credit Card
+51,136714,Clothing,Bronze,PayPal
+50,67362,Home,Platinum,Debit Card
+65,40128,Books,Bronze,Credit Card
+40,143781,Home,Silver,PayPal
+41,131281,Electronics,Platinum,Credit Card
+54,79383,Electronics,Platinum,Debit Card
+52,85545,Beauty,Silver,PayPal
+61,102180,Beauty,Silver,Debit Card
+57,107958,Books,Silver,Cash
+39,29865,Clothing,Platinum,PayPal
+44,22219,Home,Gold,PayPal
+52,59809,Books,Gold,PayPal
+18,136748,Beauty,Gold,PayPal
+52,25287,Home,Platinum,Cash
+54,146593,Beauty,Silver,PayPal
+64,54387,Home,Platinum,Credit Card
+31,28512,Clothing,Silver,PayPal
+20,21342,Books,Platinum,Cash
+18,83076,Home,Platinum,PayPal
+22,128872,Electronics,Silver,Credit Card
+43,39216,Electronics,Gold,Cash
+31,137512,Home,Silver,Cash
+56,136682,Home,Bronze,Credit Card
+44,113070,Home,Bronze,Credit Card
+26,99767,Electronics,Silver,Credit Card
+32,117829,Electronics,Platinum,Credit Card
+32,46614,Home,Bronze,Credit Card
+43,56258,Beauty,Bronze,Cash
+59,113789,Beauty,Platinum,Cash
+30,62078,Clothing,Platinum,PayPal
+68,126288,Books,Gold,PayPal
+49,103524,Beauty,Platinum,Debit Card
+56,116573,Electronics,Silver,PayPal
+66,32219,Beauty,Silver,PayPal
+69,20235,Clothing,Gold,Credit Card
+49,62929,Clothing,Bronze,Credit Card
+21,147309,Books,Bronze,PayPal
+47,87444,Beauty,Platinum,Debit Card
+54,28567,Electronics,Silver,Credit Card
+40,121834,Electronics,Bronze,PayPal
+56,90792,Home,Gold,PayPal
+62,85441,Electronics,Gold,Cash
+32,104555,Books,Silver,Debit Card
+60,93698,Books,Gold,Cash
+46,144450,Electronics,Gold,Debit Card
+53,137248,Electronics,Silver,Credit Card
+30,25415,Home,Platinum,Debit Card
+49,56159,Electronics,Platinum,PayPal
+24,63925,Home,Gold,PayPal
+68,146523,Home,Platinum,Debit Card
+39,25951,Electronics,Platinum,Debit Card
+45,107388,Clothing,Gold,Debit Card
+19,28007,Clothing,Platinum,Cash
+59,146730,Home,Gold,Debit Card
+62,61832,Electronics,Bronze,Credit Card
+23,78596,Clothing,Silver,Cash
+45,141101,Electronics,Silver,Cash
+45,50523,Electronics,Platinum,Debit Card
+61,108861,Electronics,Platinum,Credit Card
+61,144194,Beauty,Platinum,Cash
+37,106740,Electronics,Silver,PayPal
+47,35524,Beauty,Bronze,Cash
+28,149028,Home,Bronze,Debit Card
+45,39282,Clothing,Silver,Credit Card
+42,43930,Clothing,Bronze,Debit Card
+56,20077,Clothing,Silver,PayPal
+50,125881,Clothing,Bronze,PayPal
+18,145501,Clothing,Gold,PayPal
+44,40611,Clothing,Gold,Debit Card
+69,36984,Clothing,Silver,Cash
+30,34060,Home,Bronze,Debit Card
+58,102985,Electronics,Platinum,Credit Card
+20,104056,Books,Bronze,Cash
+56,145329,Beauty,Gold,PayPal
+23,63303,Books,Gold,Debit Card
+25,79207,Books,Bronze,PayPal
+44,95046,Electronics,Bronze,PayPal
+26,49287,Electronics,Platinum,Credit Card
+54,113709,Electronics,Platinum,Cash
+50,59711,Clothing,Bronze,Credit Card
+68,31954,Home,Bronze,Credit Card
+59,93340,Clothing,Bronze,Credit Card
+61,92101,Home,Bronze,PayPal
+41,91520,Home,Silver,Credit Card
+32,107062,Books,Bronze,Credit Card
+49,122974,Books,Platinum,Cash
+49,38574,Home,Gold,Cash
+41,29184,Home,Silver,Credit Card
+58,39096,Clothing,Bronze,Cash
+69,87728,Clothing,Gold,Cash
+66,54016,Books,Silver,Credit Card
+66,31246,Electronics,Gold,PayPal
+69,65558,Home,Bronze,Credit Card
+29,138721,Clothing,Bronze,Cash
+56,38381,Books,Platinum,PayPal
+19,147796,Clothing,Bronze,Debit Card
+20,56455,Home,Bronze,PayPal
+66,112263,Home,Silver,Cash
+54,24018,Beauty,Platinum,PayPal
+66,31302,Electronics,Silver,Credit Card
+34,87506,Beauty,Gold,Debit Card
+66,61157,Books,Bronze,Debit Card
+19,74917,Clothing,Gold,Debit Card
+19,112738,Books,Silver,Cash
+45,116646,Home,Bronze,Cash
+40,103122,Beauty,Bronze,Debit Card
+54,44519,Beauty,Silver,PayPal
+49,116809,Beauty,Silver,Debit Card
+50,107487,Books,Silver,PayPal
+18,76819,Home,Silver,PayPal
+36,100910,Clothing,Silver,Cash
+19,140430,Clothing,Bronze,PayPal
+61,91324,Books,Silver,Debit Card
+43,25408,Beauty,Bronze,Cash
+49,79379,Electronics,Bronze,Credit Card
+23,45053,Books,Silver,Credit Card
+49,29446,Books,Silver,Cash
+21,20922,Home,Platinum,Debit Card
+28,118723,Clothing,Bronze,Credit Card
+34,71356,Books,Silver,Credit Card
+55,30789,Books,Silver,PayPal
+41,117720,Beauty,Silver,PayPal
+22,86656,Beauty,Platinum,Debit Card
+69,64028,Electronics,Platinum,Cash
+51,84484,Home,Gold,Debit Card
+23,52154,Electronics,Bronze,Cash
+39,102870,Beauty,Gold,Credit Card
+28,22336,Clothing,Silver,PayPal
+65,123677,Beauty,Platinum,Debit Card
+33,87779,Home,Platinum,Debit Card
+50,39029,Beauty,Gold,Cash
+26,79201,Home,Platinum,Cash
+23,52265,Home,Silver,Debit Card
+33,122916,Home,Platinum,Cash
+46,132250,Home,Gold,Debit Card
+20,136553,Home,Silver,Debit Card
+37,63872,Clothing,Gold,Debit Card
+53,66197,Electronics,Platinum,Credit Card
+36,145733,Books,Gold,Cash
+43,75180,Electronics,Gold,PayPal
+20,43710,Home,Bronze,PayPal
+36,49486,Clothing,Platinum,Cash
+37,91907,Beauty,Platinum,Debit Card
+49,148876,Clothing,Gold,PayPal
+24,91895,Home,Bronze,PayPal
+69,84435,Clothing,Platinum,Cash
+58,60631,Clothing,Silver,PayPal
+50,149038,Home,Gold,Debit Card
+57,121532,Clothing,Platinum,Cash
+56,40103,Books,Silver,Debit Card
+35,84772,Books,Platinum,PayPal
+57,146108,Clothing,Silver,PayPal
+18,34382,Beauty,Gold,Debit Card
+28,104291,Home,Platinum,Credit Card
+45,121195,Books,Platinum,PayPal
+42,23756,Beauty,Bronze,Credit Card
+67,40609,Clothing,Gold,PayPal
+40,134074,Beauty,Silver,Credit Card
+48,36478,Electronics,Platinum,Credit Card
+47,120978,Books,Platinum,Credit Card
+59,59666,Clothing,Silver,Debit Card
+52,95683,Home,Gold,Credit Card
+24,119097,Clothing,Bronze,Credit Card
+33,144714,Home,Bronze,Credit Card
+43,120420,Clothing,Platinum,PayPal
+65,91315,Beauty,Silver,Credit Card
+69,97834,Beauty,Platinum,PayPal
+66,146205,Beauty,Silver,Credit Card
+19,34153,Electronics,Bronze,Credit Card
+18,129415,Home,Gold,Debit Card
+65,96325,Beauty,Silver,PayPal
+29,129701,Electronics,Bronze,Credit Card
+22,32999,Home,Platinum,PayPal
+54,75318,Clothing,Silver,PayPal
+49,20814,Electronics,Gold,Cash
+26,135033,Books,Platinum,Debit Card
+58,96077,Electronics,Platinum,Debit Card
+52,110474,Electronics,Bronze,Debit Card
+36,22443,Home,Silver,Cash
+65,95993,Clothing,Platinum,Cash
+33,95916,Books,Gold,Debit Card
+20,93319,Beauty,Silver,Cash
+37,145885,Beauty,Gold,Cash
+41,129777,Electronics,Platinum,Cash
+50,37368,Home,Gold,Debit Card
+41,35328,Home,Bronze,Debit Card
+69,76942,Beauty,Gold,Debit Card
+28,111751,Books,Silver,Cash
+66,119131,Clothing,Gold,Debit Card
+25,47306,Books,Gold,Cash
+53,105451,Clothing,Bronze,Credit Card
+55,59915,Beauty,Gold,Cash
+57,57219,Clothing,Gold,PayPal
+37,100879,Home,Platinum,Debit Card
+52,131939,Electronics,Platinum,Debit Card
+65,84644,Electronics,Silver,PayPal
+42,80279,Beauty,Platinum,Cash
+52,73028,Home,Platinum,Credit Card
+42,124263,Books,Platinum,PayPal
+46,20126,Home,Platinum,PayPal
+35,72329,Electronics,Bronze,Cash
+63,47632,Electronics,Platinum,Debit Card
+35,127099,Home,Bronze,Cash
+19,85310,Home,Bronze,PayPal
+52,129945,Electronics,Platinum,PayPal
+33,75176,Books,Gold,Debit Card
+58,139797,Beauty,Bronze,Debit Card
+53,106066,Beauty,Gold,Debit Card
+50,125500,Home,Gold,Cash
+21,146413,Beauty,Platinum,Debit Card
+50,64327,Electronics,Silver,PayPal
+31,88904,Electronics,Platinum,PayPal
+38,23797,Home,Silver,Credit Card
+65,67882,Home,Silver,Cash
+37,33718,Home,Platinum,Credit Card
+25,54560,Books,Platinum,PayPal
+24,96589,Beauty,Silver,Credit Card
+20,42116,Home,Platinum,PayPal
+34,56244,Clothing,Silver,Credit Card
+50,121721,Clothing,Gold,Debit Card
+65,21645,Electronics,Platinum,Credit Card
+29,67523,Beauty,Gold,Debit Card
+68,144085,Home,Bronze,Debit Card
+39,137718,Clothing,Gold,Cash
+39,39256,Beauty,Gold,Debit Card
+63,121376,Electronics,Silver,Debit Card
+47,120158,Books,Gold,Credit Card
+55,73173,Beauty,Platinum,PayPal
+55,57430,Beauty,Silver,Cash
+62,59282,Books,Bronze,Debit Card
+68,139719,Beauty,Platinum,Cash
+25,83374,Electronics,Bronze,Credit Card
+44,88244,Electronics,Gold,Debit Card
+44,31694,Books,Platinum,Credit Card
+51,76264,Home,Platinum,Cash
+38,95060,Clothing,Bronze,Credit Card
+47,117416,Home,Platinum,Cash
+50,77545,Beauty,Platinum,Credit Card
+45,138195,Clothing,Platinum,Cash
+64,59224,Books,Gold,PayPal
+50,122516,Books,Bronze,Credit Card
+22,117945,Clothing,Platinum,Credit Card
+65,33224,Electronics,Silver,PayPal
+36,60738,Clothing,Silver,PayPal
+21,45150,Beauty,Silver,Credit Card
+52,83731,Electronics,Silver,PayPal
+66,69688,Books,Gold,Debit Card
+34,119929,Clothing,Platinum,Cash
+61,128618,Home,Bronze,Cash
+45,93509,Home,Platinum,Cash
+47,28577,Beauty,Gold,Debit Card
+46,28070,Home,Silver,PayPal
+63,146161,Clothing,Gold,PayPal
+23,28666,Clothing,Platinum,Credit Card
+52,77761,Home,Bronze,PayPal
+58,141178,Clothing,Gold,Credit Card
+54,56368,Beauty,Bronze,Debit Card
+41,26783,Electronics,Gold,Cash
+46,131530,Beauty,Bronze,Cash
+66,61914,Beauty,Bronze,Cash
+63,90507,Clothing,Silver,PayPal
+48,147738,Electronics,Bronze,Credit Card
+52,99026,Clothing,Silver,Credit Card
+50,135893,Books,Platinum,Debit Card
+69,131255,Clothing,Platinum,PayPal
+38,130616,Clothing,Silver,Debit Card
+49,87526,Clothing,Silver,Credit Card
+40,90835,Electronics,Gold,Credit Card
+50,65765,Clothing,Gold,Cash
+20,39956,Electronics,Gold,PayPal
+35,107895,Home,Platinum,Credit Card
+42,66240,Books,Gold,Cash
+59,141008,Electronics,Bronze,PayPal
+48,57148,Home,Bronze,Debit Card
+20,114270,Electronics,Gold,PayPal
+57,147978,Electronics,Bronze,PayPal
+63,24757,Books,Platinum,Credit Card
+41,39097,Beauty,Bronze,Credit Card
+67,30395,Beauty,Platinum,PayPal
+49,36241,Electronics,Silver,Credit Card
+64,123892,Clothing,Silver,Credit Card
+39,47696,Home,Silver,Credit Card
+40,135654,Clothing,Silver,Cash
+19,90480,Clothing,Bronze,Cash
+44,66163,Electronics,Gold,PayPal
+59,39816,Electronics,Bronze,Credit Card
+19,69840,Electronics,Platinum,Cash
+43,122547,Electronics,Bronze,PayPal
+34,72853,Beauty,Bronze,Credit Card
+57,44917,Electronics,Platinum,Debit Card
+50,116731,Beauty,Silver,Credit Card
+26,41566,Beauty,Silver,Credit Card
+60,95452,Electronics,Silver,Cash
+65,82823,Books,Gold,PayPal
+56,141392,Home,Platinum,PayPal
+46,40806,Clothing,Platinum,Cash
+59,95520,Beauty,Bronze,Credit Card
+43,21759,Home,Gold,Debit Card
+52,146092,Books,Silver,Credit Card
+67,61949,Clothing,Gold,Credit Card
+42,112374,Clothing,Platinum,Debit Card
+41,22482,Beauty,Platinum,Cash
+30,44442,Electronics,Bronze,PayPal
+24,53719,Books,Bronze,Cash
+53,78066,Beauty,Platinum,Cash
+62,113501,Books,Silver,Credit Card
+37,22079,Electronics,Silver,PayPal
+18,22717,Electronics,Gold,PayPal
+25,79676,Beauty,Platinum,Cash
+63,47952,Electronics,Platinum,Debit Card
+33,106444,Home,Silver,Cash
+31,62460,Clothing,Silver,Debit Card
+29,110397,Beauty,Platinum,PayPal
+68,92847,Books,Bronze,Cash
+40,113607,Home,Platinum,Credit Card
+32,109106,Beauty,Platinum,Cash
+45,38449,Electronics,Silver,PayPal
+51,53536,Electronics,Silver,Credit Card
+19,84077,Electronics,Bronze,Credit Card
+49,58258,Electronics,Bronze,Debit Card
+40,68302,Books,Gold,Credit Card
+39,145937,Home,Platinum,Credit Card
+68,48865,Clothing,Silver,Cash
+42,26645,Books,Bronze,PayPal
+39,139771,Books,Gold,Debit Card
+39,58000,Clothing,Gold,Cash
+66,46737,Clothing,Silver,Credit Card
+69,31485,Electronics,Silver,Credit Card
+59,58565,Books,Gold,Debit Card
+23,45522,Beauty,Bronze,PayPal
+32,139614,Clothing,Gold,Debit Card
+60,85155,Clothing,Platinum,Cash
+54,75168,Home,Platinum,Debit Card
+50,72487,Beauty,Silver,Credit Card
+25,149948,Beauty,Bronze,Cash
+61,32342,Clothing,Bronze,Credit Card
+61,60806,Electronics,Platinum,PayPal
+22,68770,Home,Gold,Credit Card
+56,98623,Beauty,Silver,Credit Card
+21,123177,Clothing,Gold,Debit Card
+23,119785,Beauty,Gold,Credit Card
+62,95629,Home,Gold,Cash
+49,140993,Home,Bronze,Cash
+69,72603,Books,Platinum,PayPal
+47,146944,Clothing,Bronze,Cash
+64,132726,Home,Platinum,Debit Card
+52,101974,Books,Silver,PayPal
+57,125947,Books,Silver,Cash
+69,46399,Beauty,Gold,Debit Card
+33,148177,Beauty,Platinum,Cash
+30,105382,Books,Platinum,Cash
+67,101244,Beauty,Platinum,Credit Card
+59,129575,Home,Gold,Cash
+47,135520,Electronics,Gold,Cash
+36,130904,Home,Silver,Debit Card
+34,96534,Books,Bronze,Debit Card
+36,75106,Books,Platinum,Credit Card
+45,132599,Home,Platinum,Cash
+43,50678,Beauty,Bronze,Credit Card
+54,96218,Beauty,Platinum,Cash
+43,83230,Books,Gold,PayPal
+40,134684,Clothing,Gold,PayPal
+26,94055,Beauty,Platinum,Credit Card
+29,76373,Home,Gold,Credit Card
+18,51480,Beauty,Gold,Credit Card
+18,105230,Home,Platinum,Debit Card
+64,88836,Books,Silver,Debit Card
+51,92258,Beauty,Bronze,Debit Card
+49,59986,Home,Gold,Credit Card
+65,44160,Books,Silver,Cash
+42,105595,Clothing,Gold,PayPal
+57,121358,Home,Gold,Credit Card
+62,99111,Clothing,Bronze,Debit Card
+18,84929,Clothing,Gold,Debit Card
+33,93506,Electronics,Bronze,Credit Card
+56,54911,Beauty,Bronze,Credit Card
+22,107127,Home,Bronze,Debit Card
+39,51821,Clothing,Silver,Cash
+46,95039,Electronics,Platinum,Debit Card
+20,80535,Books,Silver,Debit Card
+29,133453,Home,Platinum,Credit Card
+43,104458,Clothing,Platinum,Cash
+33,32175,Beauty,Bronze,Debit Card
+68,139235,Electronics,Gold,Debit Card
+54,74771,Clothing,Bronze,PayPal
+39,126660,Beauty,Gold,Credit Card
+46,147157,Clothing,Platinum,PayPal
+31,141300,Home,Bronze,PayPal
+45,106925,Home,Gold,Debit Card
+22,133374,Home,Silver,Credit Card
+64,86358,Electronics,Gold,Cash
+66,37327,Home,Bronze,Debit Card
+47,67057,Beauty,Silver,Cash
+63,26150,Clothing,Gold,Cash
+69,24425,Books,Gold,Credit Card
+22,143654,Beauty,Gold,PayPal
+29,36032,Beauty,Gold,Credit Card
+33,22198,Home,Gold,Cash
+43,80500,Electronics,Silver,Debit Card
+43,73394,Clothing,Platinum,Cash
+65,40079,Electronics,Silver,Debit Card
+38,56220,Clothing,Silver,Debit Card
+56,61874,Clothing,Silver,Credit Card
+53,33859,Electronics,Platinum,Cash
+50,70460,Beauty,Bronze,PayPal
+47,51419,Clothing,Platinum,Cash
+54,138865,Electronics,Silver,Cash
+40,28705,Clothing,Gold,PayPal
+27,62880,Books,Gold,Credit Card
+22,149838,Beauty,Silver,Cash
+53,43236,Home,Gold,Cash
+51,107955,Clothing,Silver,Debit Card
+69,105514,Books,Gold,Cash
+48,123145,Home,Platinum,PayPal
+27,35358,Home,Bronze,Debit Card
+36,119713,Clothing,Bronze,Credit Card
+49,114914,Electronics,Platinum,Debit Card
+18,122870,Clothing,Platinum,PayPal
+22,96918,Books,Silver,PayPal
+62,139179,Home,Silver,Debit Card
+21,136243,Clothing,Silver,Credit Card
+33,34596,Electronics,Gold,Debit Card
+41,53572,Clothing,Silver,Credit Card
+33,98757,Beauty,Platinum,Debit Card
+19,21279,Electronics,Bronze,PayPal
+66,83197,Books,Gold,Cash
+45,131496,Home,Silver,Cash
+49,82516,Clothing,Gold,Credit Card
+44,27083,Electronics,Gold,Credit Card
+37,140674,Beauty,Silver,Credit Card
+41,140307,Electronics,Gold,PayPal
+29,146457,Beauty,Bronze,Debit Card
+67,129397,Books,Platinum,PayPal
+52,37771,Home,Platinum,Cash
+50,49975,Books,Bronze,Credit Card
+50,65648,Clothing,Gold,Debit Card
+68,145641,Electronics,Silver,Cash
+60,68285,Beauty,Gold,Cash
+54,39063,Beauty,Bronze,Cash
+29,87642,Electronics,Gold,PayPal
+20,110093,Electronics,Platinum,Credit Card
+18,134390,Clothing,Gold,Cash
+50,106143,Books,Bronze,Credit Card
+57,57599,Beauty,Platinum,PayPal
+27,71920,Clothing,Gold,Cash
+60,48529,Books,Gold,PayPal
+61,55954,Clothing,Platinum,PayPal
+46,47856,Beauty,Silver,Credit Card
+30,22573,Electronics,Platinum,Cash
+29,98344,Electronics,Silver,PayPal
+48,55367,Books,Bronze,Cash
+63,122337,Home,Bronze,Credit Card
+19,126732,Books,Platinum,PayPal
+68,119608,Home,Platinum,Credit Card
+67,80774,Clothing,Bronze,Cash
+52,43752,Clothing,Silver,Cash
+40,75029,Beauty,Bronze,Credit Card
+34,37685,Home,Platinum,Debit Card
+43,71693,Beauty,Bronze,PayPal
+25,136739,Electronics,Platinum,Cash
+46,75961,Home,Platinum,Cash
+43,126937,Books,Bronze,PayPal
+27,144956,Electronics,Silver,Credit Card
+43,96908,Electronics,Gold,Credit Card
+51,145537,Books,Bronze,Credit Card
+68,146678,Electronics,Gold,Debit Card
+58,94532,Home,Bronze,Debit Card
+24,101994,Beauty,Gold,Cash
+21,76133,Electronics,Silver,Credit Card
+67,117425,Home,Silver,PayPal
+62,145055,Clothing,Bronze,Cash
+28,81268,Home,Platinum,PayPal
+46,112201,Beauty,Gold,Cash
+53,58243,Home,Platinum,Debit Card
+42,77384,Books,Platinum,Cash
+38,51653,Beauty,Platinum,Debit Card
+53,46657,Clothing,Silver,Cash
+27,59952,Books,Bronze,Credit Card
+54,42180,Home,Bronze,PayPal
+26,117432,Beauty,Silver,Credit Card
+41,141829,Clothing,Silver,Cash
+52,148377,Books,Bronze,Cash
+66,98411,Clothing,Platinum,Cash
+52,21622,Home,Gold,Debit Card
+65,68756,Clothing,Gold,PayPal
+53,60809,Electronics,Gold,PayPal
+35,36725,Books,Platinum,Cash
+66,81396,Clothing,Bronze,Cash
+56,71226,Home,Silver,Debit Card
+49,126296,Home,Bronze,Credit Card
+41,101182,Clothing,Platinum,Credit Card
+40,102565,Home,Silver,PayPal
+49,49402,Beauty,Platinum,Debit Card
+54,24263,Beauty,Gold,Cash
+29,143489,Beauty,Gold,PayPal
+66,116523,Electronics,Platinum,Debit Card
+30,66828,Clothing,Silver,Credit Card
+40,140824,Electronics,Silver,Debit Card
+42,67924,Home,Bronze,Credit Card
+52,94182,Electronics,Gold,Debit Card
+58,113065,Home,Bronze,PayPal
+47,79052,Home,Bronze,Credit Card
+34,31664,Books,Platinum,PayPal
+66,55737,Beauty,Platinum,PayPal
+37,121332,Home,Bronze,Credit Card
+65,109563,Books,Gold,Credit Card
+42,49373,Beauty,Platinum,Cash
+39,137369,Home,Bronze,Cash
+30,56397,Home,Bronze,Cash
+36,148575,Electronics,Bronze,PayPal
+66,106145,Electronics,Bronze,PayPal
+53,121371,Beauty,Bronze,Cash
+29,58709,Home,Bronze,PayPal
+58,136074,Clothing,Platinum,PayPal
+36,81120,Electronics,Gold,Credit Card
+29,39250,Beauty,Bronze,Credit Card
+26,41172,Home,Silver,PayPal
+24,31555,Home,Platinum,Cash
+45,107410,Clothing,Platinum,Debit Card
+31,98617,Beauty,Bronze,Cash
+48,73276,Home,Platinum,Debit Card
+69,77492,Electronics,Bronze,Cash
+36,73002,Clothing,Gold,Credit Card
+64,140103,Beauty,Gold,PayPal
+33,144938,Clothing,Platinum,PayPal
+22,109599,Electronics,Platinum,Credit Card
+52,92355,Beauty,Silver,Debit Card
+29,111248,Clothing,Platinum,Debit Card
+42,44762,Books,Silver,Debit Card
+69,31046,Electronics,Gold,Credit Card
+38,116999,Electronics,Gold,Debit Card
+53,144130,Electronics,Bronze,Credit Card
+40,136021,Books,Gold,Cash
+33,48769,Books,Silver,Cash
+56,73302,Home,Platinum,Credit Card
+62,43150,Clothing,Bronze,PayPal
+59,88247,Home,Silver,Cash
+56,24853,Clothing,Platinum,Debit Card
+31,114613,Books,Bronze,Credit Card
+48,140900,Books,Gold,Debit Card
+22,109399,Home,Silver,Debit Card
+52,41792,Beauty,Platinum,PayPal
+40,79129,Home,Bronze,Debit Card
+46,126019,Clothing,Bronze,PayPal
+60,94478,Home,Gold,Cash
+28,133811,Electronics,Platinum,Credit Card
+35,134130,Clothing,Gold,Debit Card
+64,87298,Clothing,Gold,Credit Card
+29,51987,Beauty,Platinum,Debit Card
+26,35850,Books,Platinum,Credit Card
+27,32112,Clothing,Platinum,Debit Card
+61,141789,Books,Silver,Debit Card
+34,44058,Home,Platinum,Debit Card
+55,65420,Electronics,Bronze,Debit Card
+24,58890,Beauty,Gold,Debit Card
+63,86017,Books,Silver,Debit Card
+30,67304,Clothing,Platinum,Debit Card
+57,52921,Books,Silver,Debit Card
+59,125921,Clothing,Platinum,Debit Card
+26,21524,Books,Silver,Credit Card
+67,120424,Clothing,Gold,PayPal
+44,35048,Home,Gold,Debit Card
+19,55111,Clothing,Bronze,PayPal
+22,57904,Clothing,Bronze,Debit Card
+46,74912,Electronics,Platinum,Debit Card
+54,54008,Clothing,Gold,Credit Card
+55,20060,Electronics,Silver,Cash
+36,94666,Beauty,Silver,Cash
+25,103559,Electronics,Silver,Credit Card
+65,75337,Home,Bronze,PayPal
+62,130616,Electronics,Silver,Cash
+18,33350,Beauty,Bronze,Credit Card
+39,44354,Home,Bronze,Credit Card
+69,65186,Books,Platinum,Cash
+34,48145,Books,Silver,PayPal
+24,54020,Electronics,Silver,Credit Card
+42,106123,Electronics,Gold,Debit Card
+62,126667,Beauty,Platinum,PayPal
+21,95186,Beauty,Gold,PayPal
+53,105469,Clothing,Platinum,Cash
+23,40581,Beauty,Silver,Cash
+48,108929,Clothing,Bronze,Debit Card
+36,43051,Home,Bronze,Credit Card
+61,71474,Electronics,Bronze,Cash
+56,111748,Home,Bronze,Cash
+44,145995,Beauty,Bronze,PayPal
+27,134618,Home,Gold,Cash
+43,89626,Home,Platinum,Cash
+36,26960,Home,Silver,Cash
+56,55772,Beauty,Gold,Cash
+20,41520,Home,Platinum,PayPal
+62,69481,Clothing,Bronze,Debit Card
+30,56408,Beauty,Platinum,Debit Card
+67,114006,Home,Platinum,Credit Card
+45,148496,Beauty,Bronze,Cash
+37,77134,Books,Bronze,PayPal
+45,40491,Clothing,Bronze,Credit Card
+25,21341,Home,Silver,Credit Card
+58,64623,Books,Bronze,Debit Card
+56,110327,Books,Silver,PayPal
+18,20338,Beauty,Bronze,PayPal
+20,91431,Books,Silver,PayPal
+30,32254,Clothing,Platinum,Debit Card
+45,71860,Clothing,Gold,Debit Card
+66,31344,Electronics,Platinum,Debit Card
+42,21750,Clothing,Platinum,Debit Card
+50,74756,Books,Bronze,Debit Card
+55,87957,Clothing,Silver,Cash
+23,125423,Beauty,Gold,Cash
+61,78053,Electronics,Bronze,PayPal
+62,90855,Books,Bronze,Credit Card
+49,35896,Electronics,Bronze,PayPal
+62,75761,Books,Platinum,Credit Card
+64,82552,Beauty,Silver,Debit Card
+38,140075,Electronics,Silver,Credit Card
+33,97454,Home,Gold,PayPal
+38,146522,Books,Silver,PayPal
+28,138681,Home,Silver,Credit Card
+54,110600,Electronics,Bronze,Cash
+53,142732,Home,Bronze,Debit Card
+52,132153,Home,Platinum,Debit Card
+36,142926,Electronics,Bronze,PayPal
+37,47935,Beauty,Bronze,Cash
+35,57641,Home,Bronze,Credit Card
+64,49711,Home,Bronze,Debit Card
+58,90342,Beauty,Platinum,Cash
+66,126896,Home,Bronze,Debit Card
+31,32182,Home,Gold,Cash
+32,107833,Home,Gold,Cash
+48,76276,Clothing,Gold,PayPal
+18,39541,Beauty,Gold,Debit Card
+20,114457,Home,Bronze,Credit Card
+33,102310,Beauty,Gold,PayPal
+40,64813,Books,Bronze,PayPal
+28,57198,Books,Platinum,Credit Card
+29,28820,Home,Gold,PayPal
+27,44070,Beauty,Silver,Cash
+49,89768,Beauty,Gold,Cash
+33,31122,Beauty,Gold,Debit Card
+25,100559,Clothing,Bronze,Debit Card
+55,93543,Books,Gold,Credit Card
+29,103441,Beauty,Silver,Debit Card
+41,61786,Beauty,Bronze,Cash
+45,114934,Clothing,Bronze,Credit Card
+25,119804,Clothing,Platinum,Credit Card
+45,26737,Beauty,Platinum,Debit Card
+53,56062,Electronics,Gold,Cash
+43,74237,Beauty,Platinum,Credit Card
+25,71571,Beauty,Platinum,Cash
+67,45510,Clothing,Platinum,Cash
+45,39426,Clothing,Bronze,Cash
+45,57265,Beauty,Bronze,Debit Card
+54,37850,Beauty,Bronze,PayPal
+58,138249,Beauty,Platinum,PayPal
+53,86150,Clothing,Bronze,Credit Card
+44,107312,Beauty,Platinum,Cash
+34,109613,Beauty,Bronze,Debit Card
+26,94910,Home,Bronze,Cash
+50,72375,Electronics,Silver,Cash
+37,141826,Books,Gold,Debit Card
+30,55435,Electronics,Platinum,PayPal
+45,116443,Home,Silver,Cash
+65,77132,Books,Bronze,Cash
+46,98945,Beauty,Platinum,PayPal
+30,102050,Home,Bronze,Debit Card
+63,149828,Beauty,Gold,Credit Card
+52,115402,Clothing,Silver,PayPal
+23,22983,Home,Gold,Credit Card
+35,117241,Clothing,Silver,Credit Card
+68,40662,Home,Bronze,PayPal
+22,43510,Home,Gold,Cash
+64,98187,Clothing,Gold,Credit Card
+42,60998,Books,Bronze,Credit Card
+19,76846,Electronics,Gold,Debit Card
+27,114071,Beauty,Platinum,Cash
+47,26640,Home,Silver,Credit Card
+67,64547,Beauty,Silver,Debit Card
+62,74620,Clothing,Silver,Cash
+22,35317,Beauty,Platinum,PayPal
+50,135608,Clothing,Silver,PayPal
+18,27564,Beauty,Bronze,Debit Card
+35,47345,Electronics,Gold,PayPal
+49,133824,Electronics,Platinum,Credit Card
+64,114223,Electronics,Silver,Cash
+66,143372,Electronics,Bronze,Credit Card
+28,99273,Electronics,Gold,Credit Card
+38,94859,Electronics,Gold,PayPal
+43,100765,Clothing,Platinum,Credit Card
+42,130017,Home,Platinum,PayPal
+39,94038,Beauty,Platinum,Cash
+44,143618,Electronics,Bronze,Cash
+66,72393,Clothing,Bronze,Credit Card
+30,86081,Clothing,Platinum,Debit Card
+50,145341,Clothing,Silver,PayPal
+51,122650,Home,Gold,PayPal
+58,49430,Beauty,Gold,Credit Card
+52,95532,Home,Bronze,PayPal
+18,47788,Books,Gold,PayPal
+38,115505,Clothing,Silver,Debit Card
+65,68543,Books,Gold,Debit Card
+23,33919,Electronics,Bronze,Credit Card
+45,89346,Electronics,Bronze,Debit Card
+34,116122,Home,Silver,Credit Card
+22,59974,Beauty,Silver,Cash
+48,127309,Books,Gold,Credit Card
+22,36371,Beauty,Gold,Cash
+55,65084,Home,Bronze,Credit Card
+20,49629,Electronics,Silver,PayPal
+40,71184,Beauty,Silver,Debit Card
+54,81916,Beauty,Silver,Cash
+54,147293,Electronics,Gold,Credit Card
+27,93972,Books,Silver,Debit Card
+27,82187,Electronics,Bronze,Credit Card
+36,32984,Beauty,Bronze,Debit Card
+34,53039,Books,Gold,Debit Card
+38,105431,Books,Platinum,Credit Card
+31,103691,Electronics,Gold,Cash
+26,78606,Beauty,Platinum,Cash
+63,30616,Home,Silver,PayPal
+18,122665,Beauty,Gold,Debit Card
+68,125373,Clothing,Bronze,PayPal
+62,70072,Home,Silver,PayPal
+30,44574,Books,Bronze,Credit Card
+21,23430,Home,Silver,Credit Card
+18,139123,Books,Gold,Credit Card
+66,32676,Books,Platinum,Debit Card
+57,30816,Home,Silver,Credit Card
+49,52733,Books,Platinum,Credit Card
+51,105680,Books,Silver,Debit Card
+45,22050,Clothing,Bronze,Debit Card
+48,129996,Beauty,Bronze,Cash
+25,53933,Beauty,Silver,Credit Card
+56,44951,Clothing,Platinum,Credit Card
+43,52413,Home,Gold,Credit Card
+51,54801,Electronics,Gold,Cash
+20,75619,Electronics,Bronze,Credit Card
+67,52913,Electronics,Gold,Cash
+29,132573,Clothing,Bronze,PayPal
+18,139076,Clothing,Gold,Cash
+61,60600,Books,Silver,PayPal
+22,77775,Electronics,Bronze,Credit Card
+47,110816,Home,Bronze,PayPal
+47,149972,Home,Silver,Cash
+34,110093,Electronics,Bronze,Debit Card
+65,132590,Electronics,Gold,PayPal
+64,55400,Electronics,Gold,PayPal
+40,24494,Clothing,Bronze,Credit Card
+32,100688,Clothing,Gold,Cash
+54,142744,Clothing,Platinum,PayPal
+38,109431,Beauty,Bronze,PayPal
+31,94691,Home,Silver,PayPal
+19,117419,Home,Platinum,PayPal
+28,128730,Books,Bronze,Debit Card
+68,63001,Clothing,Silver,Cash
+56,87364,Beauty,Gold,Credit Card
+55,144988,Beauty,Silver,Credit Card
+51,65028,Home,Platinum,Debit Card
+55,127434,Clothing,Gold,Cash
+67,117659,Books,Bronze,PayPal
+51,57573,Clothing,Gold,Debit Card
+35,20806,Electronics,Bronze,Cash
+47,144343,Clothing,Bronze,PayPal
+32,76638,Electronics,Silver,Debit Card
+44,148301,Electronics,Silver,Cash
+68,146295,Books,Silver,Credit Card
+51,126506,Home,Platinum,Credit Card
+69,49757,Clothing,Platinum,Cash
+55,54636,Electronics,Silver,Credit Card
+50,100097,Clothing,Platinum,Cash
+41,68280,Home,Gold,PayPal
+32,44262,Home,Gold,Cash
+47,100435,Beauty,Platinum,PayPal
+59,82211,Home,Platinum,Debit Card
+68,74842,Books,Gold,Cash
+34,148583,Electronics,Bronze,Debit Card
+22,76979,Beauty,Gold,Credit Card
+46,134524,Books,Gold,PayPal
+21,101470,Clothing,Platinum,Cash
+27,58197,Electronics,Gold,Debit Card
+34,61844,Home,Platinum,PayPal
+27,84754,Electronics,Platinum,PayPal
+34,121868,Clothing,Silver,Credit Card
+37,54157,Beauty,Gold,Credit Card
+41,97129,Beauty,Bronze,PayPal
+22,60042,Beauty,Silver,PayPal
+51,81665,Home,Platinum,Cash
+23,135512,Books,Platinum,PayPal
+19,136953,Books,Bronze,Cash
+30,102856,Electronics,Platinum,PayPal
+60,47376,Home,Gold,Credit Card
+60,129049,Beauty,Silver,Cash
+65,75554,Beauty,Platinum,Debit Card
+28,34199,Clothing,Platinum,Credit Card
+68,138533,Clothing,Bronze,Cash
+64,101412,Beauty,Gold,Cash
+40,70948,Beauty,Platinum,Debit Card
+33,93781,Home,Bronze,Cash
+48,92750,Books,Platinum,PayPal
+28,86262,Clothing,Bronze,Debit Card
+33,137424,Books,Bronze,Credit Card
+25,66600,Home,Gold,Credit Card
+21,96898,Beauty,Platinum,PayPal
+57,82483,Books,Gold,Credit Card
+21,38297,Beauty,Bronze,Cash
+42,50448,Beauty,Silver,Cash
+20,46172,Electronics,Platinum,PayPal
+49,62874,Books,Silver,Credit Card
+20,27657,Books,Platinum,Credit Card
+44,104386,Beauty,Gold,PayPal
+46,145617,Home,Gold,Debit Card
+49,45425,Electronics,Gold,Credit Card
+67,46685,Beauty,Gold,Debit Card
+68,142000,Clothing,Gold,Credit Card
+36,132855,Clothing,Silver,Credit Card
+38,44578,Electronics,Gold,Credit Card
+22,48831,Home,Bronze,Credit Card
+35,27906,Beauty,Bronze,Cash
+45,81413,Books,Silver,Debit Card
+59,74028,Electronics,Platinum,Debit Card
+39,27287,Home,Bronze,Credit Card
+38,53660,Books,Platinum,Credit Card
+23,95758,Clothing,Silver,Debit Card
+18,80504,Clothing,Platinum,Cash
+22,79720,Books,Platinum,PayPal
+58,122979,Electronics,Platinum,PayPal
+29,54701,Clothing,Platinum,Debit Card
+43,103300,Beauty,Silver,Credit Card
+63,130177,Books,Bronze,Credit Card
+51,37674,Books,Gold,Cash
+66,103560,Clothing,Platinum,PayPal
+31,131543,Electronics,Bronze,Cash
+43,43874,Beauty,Bronze,PayPal
+62,63642,Electronics,Silver,Debit Card
+44,143867,Home,Bronze,PayPal
+26,117820,Home,Silver,Cash
+43,85160,Clothing,Platinum,Cash
+64,37602,Clothing,Platinum,Cash
+39,123320,Clothing,Gold,Debit Card
+64,108801,Home,Gold,PayPal
+47,45931,Electronics,Gold,PayPal
+60,114377,Electronics,Bronze,Cash
+65,49192,Clothing,Platinum,PayPal
+34,66542,Beauty,Silver,Credit Card
+43,147015,Electronics,Gold,Credit Card
+53,62520,Home,Silver,Credit Card
+18,84772,Books,Silver,PayPal
+25,78762,Books,Gold,Debit Card
+66,70106,Books,Platinum,Debit Card
+52,101121,Beauty,Gold,Debit Card
+69,45559,Clothing,Silver,Debit Card
+32,125595,Home,Gold,Credit Card
+64,53742,Beauty,Silver,Credit Card
+39,89669,Home,Silver,Cash
+31,100199,Home,Gold,PayPal
+43,41754,Clothing,Bronze,PayPal
+45,23972,Books,Gold,Debit Card
+40,90831,Clothing,Bronze,Credit Card
+31,132217,Beauty,Silver,Debit Card
+41,61873,Beauty,Silver,Cash
+19,114661,Beauty,Bronze,PayPal
+62,126532,Clothing,Silver,PayPal
+43,146267,Home,Bronze,Debit Card
+31,29903,Home,Bronze,Cash
+68,23020,Electronics,Silver,PayPal
+24,61755,Beauty,Platinum,Cash
+20,105956,Home,Bronze,Cash
+64,106988,Electronics,Gold,Debit Card
+40,65648,Home,Gold,Credit Card
+63,123537,Beauty,Silver,Debit Card
+60,145991,Books,Platinum,Credit Card
+64,29516,Beauty,Silver,Cash
+62,132863,Clothing,Platinum,Credit Card
+35,135005,Home,Bronze,Cash
+55,22396,Home,Bronze,PayPal
